@@ -61,3 +61,6 @@ O Makefile fornecido permite compilar (make all), executar (make run) e limpar o
 
 ### Conclusão
 Este projeto demonstra a eficácia do algoritmo Held-Karp em comparação à abordagem de Força Bruta para resolver o PCV. Enquanto o método de Força Bruta se torna inviável para instâncias maiores devido à sua complexidade fatorial, o Held-Karp oferece uma solução viável para problemas de tamanho moderado, graças à sua estratégia de programação dinâmica. Os resultados empíricos corroboram as análises teóricas, evidenciando a superioridade do Held-Karp em termos de desempenho.
+
+## Licença
+Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
